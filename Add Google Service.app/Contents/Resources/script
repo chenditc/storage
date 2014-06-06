@@ -1,0 +1,2 @@
+sudo cp hosts /etc/hosts
+sudo cp hosts /private/etc/hosts
