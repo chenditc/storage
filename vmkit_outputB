@@ -1,0 +1,6 @@
+Java Grande Forum Benchmark Suite - Version 2.0 - Section 2 - Size B
+
+Section2:Series:Kernel:SizeB	40.876 (s) 	 4892.8223	 (coefficients/s)
+Section2:LUFact:Kernel:SizeB	2.171 (s) 	 307.9994	 (Mflops/s)
+Section2:HeapSort:Kernel:SizeB	2.982 (s) 	 1676727.0	 (items/s)
+Section2:Crypt:Kernel:SizeB	4.152 (s) 	 9633.911	 (Kbyte/s)
